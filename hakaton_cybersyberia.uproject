@@ -32,6 +32,18 @@
 				"Android",
 				"VisionOS"
 			]
+		},
+		{
+			"Name": "RawInput",
+			"Enabled": true
+		},
+		{
+			"Name": "PixelStreaming",
+			"Enabled": true
+		},
+		{
+			"Name": "Fab",
+			"Enabled": false
 		}
 	],
 	"TargetPlatforms": [
