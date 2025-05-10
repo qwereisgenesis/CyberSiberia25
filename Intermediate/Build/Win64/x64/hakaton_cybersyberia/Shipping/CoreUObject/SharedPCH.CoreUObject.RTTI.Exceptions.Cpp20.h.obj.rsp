@@ -8,7 +8,7 @@
 /I "Runtime\Core\Internal"
 /I "Runtime\TraceLog\Public"
 /external:W0
-/external:I "D:\ProgramData\Visual Studio\VC\Tools\MSVC\14.43.34808\INCLUDE"
+/external:I "D:\ProgramData\Visual Studio\VC\Tools\MSVC\14.36.32532\INCLUDE"
 /external:I "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt"
 /external:I "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared"
 /external:I "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um"
