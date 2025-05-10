@@ -1,0 +1,10 @@
+{
+	"SourceFiles": [
+		"D:\\DEVELOPMENT\\GitHub Repository\\CyberSiberia25\\Intermediate\\Source\\hakaton_cybersyberia.Build.cs",
+		"D:\\DEVELOPMENT\\GitHub Repository\\CyberSiberia25\\Intermediate\\Source\\hakaton_cybersyberia.Target.cs",
+		"D:\\DEVELOPMENT\\GitHub Repository\\CyberSiberia25\\Intermediate\\Source\\hakaton_cybersyberiaClient.Target.cs",
+		"D:\\DEVELOPMENT\\GitHub Repository\\CyberSiberia25\\Intermediate\\Source\\hakaton_cybersyberiaEditor.Target.cs",
+		"D:\\DEVELOPMENT\\GitHub Repository\\CyberSiberia25\\Intermediate\\Source\\hakaton_cybersyberiaServer.Target.cs"
+	],
+	"EngineVersion": "5.4.4"
+}

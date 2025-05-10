@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\development\\github repository\\cybersiberia25\\intermediate\\build\\win64\\x64\\unrealgame\\shipping\\hakaton_cybersyberia\\module.hakaton_cybersyberia.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\development\\github repository\\cybersiberia25\\intermediate\\build\\win64\\x64\\hakaton_cybersyberia\\shipping\\core\\sharedpch.core.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "d:\\development\\github repository\\cybersiberia25\\intermediate\\build\\win64\\x64\\unrealgame\\shipping\\hakaton_cybersyberia\\definitions.hakaton_cybersyberia.h",
+            "d:\\development\\github repository\\cybersiberia25\\intermediate\\source\\hakaton_cybersyberia.cpp"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
